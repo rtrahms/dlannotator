@@ -1,6 +1,6 @@
 # dlannotator
 Deep Learning Annotation Tool for Object Detector DNNs
-REference requirements.txt for Python dependencies before running.
+Reference requirements.txt for Python dependencies before running.
 
 To start: python main.py
 
