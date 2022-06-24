@@ -1,5 +1,5 @@
 # dlannotator
-Deep Learning Annotation Tool for Object Detector DNNs
+Deep Learning Annotation Tool for object detector DNNs working on images and image sequences.
 Reference requirements.txt for Python dependencies before running.
 
 Useful for training DNNs like YOLO!
