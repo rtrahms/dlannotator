@@ -19,7 +19,7 @@ class Logger:
 
             # assemble full path for filename and store it
             timestamp = datetime.now()
-            self.log_file_full_path = log_file_dir + "\\" + self.log_file_prefix + timestamp.strftime("%m-%d-%Y_%H-%M-%S") + ".txt"
+            self.log_file_full_path = log_file_dir + "/" + self.log_file_prefix + timestamp.strftime("%m-%d-%Y_%H-%M-%S") + ".txt"
 
             self.log_filestream = None
 
