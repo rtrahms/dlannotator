@@ -1,0 +1,98 @@
+06-24-2022_17:49:28: DL Annotator Event Log
+06-24-2022_17:49:28: Version 1.0.3 Trial = False
+06-24-2022_17:49:28: Loading setup file information...
+06-24-2022_17:49:28: Reading JPG filenames from directory: ./sample/traffic_imgs/
+06-24-2022_17:49:28: Number of JPG files identified: 18
+06-24-2022_17:49:28: Reading labels from ./sample/coco_names.txt
+06-24-2022_17:49:28: Number of class labels identified: 80
+06-24-2022_17:49:28: Labels:
+06-24-2022_17:49:28: person
+06-24-2022_17:49:28: bicycle
+06-24-2022_17:49:28: car
+06-24-2022_17:49:28: motorbike
+06-24-2022_17:49:28: aeroplane
+06-24-2022_17:49:28: bus
+06-24-2022_17:49:28: train
+06-24-2022_17:49:28: truck
+06-24-2022_17:49:28: boat
+06-24-2022_17:49:28: traffic light
+06-24-2022_17:49:28: fire hydrant
+06-24-2022_17:49:28: stop sign
+06-24-2022_17:49:28: parking meter
+06-24-2022_17:49:28: bench
+06-24-2022_17:49:28: bird
+06-24-2022_17:49:28: cat
+06-24-2022_17:49:28: dog
+06-24-2022_17:49:28: horse
+06-24-2022_17:49:28: sheep
+06-24-2022_17:49:28: cow
+06-24-2022_17:49:28: elephant
+06-24-2022_17:49:28: bear
+06-24-2022_17:49:28: zebra
+06-24-2022_17:49:28: giraffe
+06-24-2022_17:49:28: backpack
+06-24-2022_17:49:28: umbrella
+06-24-2022_17:49:28: handbag
+06-24-2022_17:49:28: tie
+06-24-2022_17:49:28: suitcase
+06-24-2022_17:49:28: frisbee
+06-24-2022_17:49:28: skis
+06-24-2022_17:49:28: snowboard
+06-24-2022_17:49:28: sports ball
+06-24-2022_17:49:28: kite
+06-24-2022_17:49:28: baseball bat
+06-24-2022_17:49:28: baseball glove
+06-24-2022_17:49:28: skateboard
+06-24-2022_17:49:28: surfboard
+06-24-2022_17:49:28: tennis racket
+06-24-2022_17:49:28: bottle
+06-24-2022_17:49:28: wine glass
+06-24-2022_17:49:28: cup
+06-24-2022_17:49:28: fork
+06-24-2022_17:49:28: knife
+06-24-2022_17:49:28: spoon
+06-24-2022_17:49:28: bowl
+06-24-2022_17:49:28: banana
+06-24-2022_17:49:28: apple
+06-24-2022_17:49:28: sandwich
+06-24-2022_17:49:28: orange
+06-24-2022_17:49:28: broccoli
+06-24-2022_17:49:28: carrot
+06-24-2022_17:49:28: hot dog
+06-24-2022_17:49:28: pizza
+06-24-2022_17:49:28: donut
+06-24-2022_17:49:28: cake
+06-24-2022_17:49:28: chair
+06-24-2022_17:49:28: sofa
+06-24-2022_17:49:28: pottedplant
+06-24-2022_17:49:28: bed
+06-24-2022_17:49:28: diningtable
+06-24-2022_17:49:28: toilet
+06-24-2022_17:49:28: tvmonitor
+06-24-2022_17:49:28: laptop
+06-24-2022_17:49:28: mouse
+06-24-2022_17:49:28: remote
+06-24-2022_17:49:28: keyboard
+06-24-2022_17:49:28: cell phone
+06-24-2022_17:49:28: microwave
+06-24-2022_17:49:28: oven
+06-24-2022_17:49:28: toaster
+06-24-2022_17:49:28: sink
+06-24-2022_17:49:28: refrigerator
+06-24-2022_17:49:28: book
+06-24-2022_17:49:28: clock
+06-24-2022_17:49:28: vase
+06-24-2022_17:49:28: scissors
+06-24-2022_17:49:28: teddy bear
+06-24-2022_17:49:28: hair drier
+06-24-2022_17:49:28: toothbrush
+06-24-2022_17:49:28: loading GT from /home/rob/DATA/Developer/dlannotator/sample/test_traffic.csv
+06-24-2022_17:49:28: Number of GT entries identified: 18
+06-24-2022_17:49:28: Reading DNN - Config file path: none
+06-24-2022_17:49:28: Reading DNN - Model file path: none
+06-24-2022_17:49:28: none file not found!
+06-24-2022_17:49:40: GT prediction method set: track
+06-24-2022_17:49:41: GT prediction method set: dnn
+06-24-2022_17:49:42: GT prediction method set: copy
+06-24-2022_17:49:43: GT prediction method set: track
+06-24-2022_17:49:53: Help mode, calling up dialog

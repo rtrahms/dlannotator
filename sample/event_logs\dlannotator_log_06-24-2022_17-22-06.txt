@@ -1,0 +1,153 @@
+06-24-2022_17:22:06: DL Annotator Event Log
+06-24-2022_17:22:06: Version 1.0.3 Trial = False
+06-24-2022_17:22:06: Loading setup file information...
+06-24-2022_17:22:06: Reading JPG filenames from directory: ./sample/traffic_imgs/
+06-24-2022_17:22:06: Number of JPG files identified: 108
+06-24-2022_17:22:06: Reading labels from ./sample/coco_names.txt
+06-24-2022_17:22:06: Number of class labels identified: 80
+06-24-2022_17:22:06: Labels:
+06-24-2022_17:22:06: person
+06-24-2022_17:22:06: bicycle
+06-24-2022_17:22:06: car
+06-24-2022_17:22:06: motorbike
+06-24-2022_17:22:06: aeroplane
+06-24-2022_17:22:06: bus
+06-24-2022_17:22:06: train
+06-24-2022_17:22:06: truck
+06-24-2022_17:22:06: boat
+06-24-2022_17:22:06: traffic light
+06-24-2022_17:22:06: fire hydrant
+06-24-2022_17:22:06: stop sign
+06-24-2022_17:22:06: parking meter
+06-24-2022_17:22:06: bench
+06-24-2022_17:22:06: bird
+06-24-2022_17:22:06: cat
+06-24-2022_17:22:06: dog
+06-24-2022_17:22:06: horse
+06-24-2022_17:22:06: sheep
+06-24-2022_17:22:06: cow
+06-24-2022_17:22:06: elephant
+06-24-2022_17:22:06: bear
+06-24-2022_17:22:06: zebra
+06-24-2022_17:22:06: giraffe
+06-24-2022_17:22:06: backpack
+06-24-2022_17:22:06: umbrella
+06-24-2022_17:22:06: handbag
+06-24-2022_17:22:06: tie
+06-24-2022_17:22:06: suitcase
+06-24-2022_17:22:06: frisbee
+06-24-2022_17:22:06: skis
+06-24-2022_17:22:06: snowboard
+06-24-2022_17:22:06: sports ball
+06-24-2022_17:22:06: kite
+06-24-2022_17:22:06: baseball bat
+06-24-2022_17:22:06: baseball glove
+06-24-2022_17:22:06: skateboard
+06-24-2022_17:22:06: surfboard
+06-24-2022_17:22:06: tennis racket
+06-24-2022_17:22:06: bottle
+06-24-2022_17:22:06: wine glass
+06-24-2022_17:22:06: cup
+06-24-2022_17:22:06: fork
+06-24-2022_17:22:06: knife
+06-24-2022_17:22:06: spoon
+06-24-2022_17:22:06: bowl
+06-24-2022_17:22:06: banana
+06-24-2022_17:22:06: apple
+06-24-2022_17:22:06: sandwich
+06-24-2022_17:22:06: orange
+06-24-2022_17:22:06: broccoli
+06-24-2022_17:22:06: carrot
+06-24-2022_17:22:06: hot dog
+06-24-2022_17:22:06: pizza
+06-24-2022_17:22:06: donut
+06-24-2022_17:22:06: cake
+06-24-2022_17:22:06: chair
+06-24-2022_17:22:06: sofa
+06-24-2022_17:22:06: pottedplant
+06-24-2022_17:22:06: bed
+06-24-2022_17:22:06: diningtable
+06-24-2022_17:22:06: toilet
+06-24-2022_17:22:06: tvmonitor
+06-24-2022_17:22:06: laptop
+06-24-2022_17:22:06: mouse
+06-24-2022_17:22:06: remote
+06-24-2022_17:22:06: keyboard
+06-24-2022_17:22:06: cell phone
+06-24-2022_17:22:06: microwave
+06-24-2022_17:22:06: oven
+06-24-2022_17:22:06: toaster
+06-24-2022_17:22:06: sink
+06-24-2022_17:22:06: refrigerator
+06-24-2022_17:22:06: book
+06-24-2022_17:22:06: clock
+06-24-2022_17:22:06: vase
+06-24-2022_17:22:06: scissors
+06-24-2022_17:22:06: teddy bear
+06-24-2022_17:22:06: hair drier
+06-24-2022_17:22:06: toothbrush
+06-24-2022_17:22:06: No input GT data.  Proceeding.
+06-24-2022_17:22:06: Reading DNN - Config file path: ./sample/yolov3-tiny_COCO.cfg
+06-24-2022_17:22:06: Reading DNN - Model file path: ./sample/yolov3-tiny_COCO.weights
+06-24-2022_17:22:08: Changed label to bicycle
+06-24-2022_17:22:08: Changed label to car
+06-24-2022_17:22:08: Changed label to motorbike
+06-24-2022_17:22:09: Changed label to car
+06-24-2022_17:22:11: Add new BBox
+06-24-2022_17:22:12: Changed label to motorbike
+06-24-2022_17:22:12: Changed label to aeroplane
+06-24-2022_17:22:12: Changed label to bus
+06-24-2022_17:22:14: Changed label to aeroplane
+06-24-2022_17:22:14: Changed label to bus
+06-24-2022_17:22:14: Changed label to train
+06-24-2022_17:22:15: Changed label to truck
+06-24-2022_17:22:15: Changed label to boat
+06-24-2022_17:22:16: Changed label to truck
+06-24-2022_17:22:19: Add new BBox
+06-24-2022_17:22:24: GT prediction method set: track
+06-24-2022_17:22:32: Finish move or change of BBox
+06-24-2022_17:22:38: Finish move or change of BBox
+06-24-2022_17:22:42: Finish move or change of BBox
+06-24-2022_17:22:44: Changed label to train
+06-24-2022_17:22:44: Changed label to bus
+06-24-2022_17:22:44: Changed label to aeroplane
+06-24-2022_17:22:44: Changed label to motorbike
+06-24-2022_17:22:45: Changed label to car
+06-24-2022_17:22:45: Changed label to bicycle
+06-24-2022_17:22:46: Changed label to car
+06-24-2022_17:22:48: Add new BBox
+06-24-2022_17:22:54: Finish move or change of BBox
+06-24-2022_17:22:57: Finish move or change of BBox
+06-24-2022_17:22:59: Finish move or change of BBox
+06-24-2022_17:23:05: Finish move or change of BBox
+06-24-2022_17:23:07: Finish move or change of BBox
+06-24-2022_17:23:10: Finish move or change of BBox
+06-24-2022_17:23:12: Finish move or change of BBox
+06-24-2022_17:23:17: Finish move or change of BBox
+06-24-2022_17:23:19: Finish move or change of BBox
+06-24-2022_17:23:24: Finish move or change of BBox
+06-24-2022_17:23:27: Finish move or change of BBox
+06-24-2022_17:23:30: Finish move or change of BBox
+06-24-2022_17:23:32: Finish move or change of BBox
+06-24-2022_17:23:36: Finish move or change of BBox
+06-24-2022_17:23:41: Finish move or change of BBox
+06-24-2022_17:23:44: Finish move or change of BBox
+06-24-2022_17:24:03: Finish move or change of BBox
+06-24-2022_17:24:05: Finish move or change of BBox
+06-24-2022_17:24:09: Finish move or change of BBox
+06-24-2022_17:24:15: Deleting BBox
+06-24-2022_17:24:16: Deleting BBox
+06-24-2022_17:24:16: Deleting BBox
+06-24-2022_17:24:18: Changed label to bicycle
+06-24-2022_17:24:18: Changed label to person
+06-24-2022_17:24:19: Changed label to bicycle
+06-24-2022_17:24:19: Changed label to car
+06-24-2022_17:24:23: Add new BBox
+06-24-2022_17:24:26: Add new BBox
+06-24-2022_17:24:29: Add new BBox
+06-24-2022_17:24:37: Finish move or change of BBox
+06-24-2022_17:24:40: Finish move or change of BBox
+06-24-2022_17:24:48: Finish move or change of BBox
+06-24-2022_17:24:52: Finish move or change of BBox
+06-24-2022_17:25:00: Finish move or change of BBox
+06-24-2022_17:25:05: save_gt_data() called.  Saving GT to ./sample/test_traffic.csv

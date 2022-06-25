@@ -1,0 +1,109 @@
+06-24-2022_17:43:12: DL Annotator Event Log
+06-24-2022_17:43:12: Version 1.0.3 Trial = False
+06-24-2022_17:43:12: Loading setup file information...
+06-24-2022_17:43:12: Reading JPG filenames from directory: ./sample/traffic_imgs/
+06-24-2022_17:43:12: Number of JPG files identified: 18
+06-24-2022_17:43:12: Reading labels from ./sample/coco_names.txt
+06-24-2022_17:43:12: Number of class labels identified: 80
+06-24-2022_17:43:12: Labels:
+06-24-2022_17:43:12: person
+06-24-2022_17:43:12: bicycle
+06-24-2022_17:43:12: car
+06-24-2022_17:43:12: motorbike
+06-24-2022_17:43:12: aeroplane
+06-24-2022_17:43:12: bus
+06-24-2022_17:43:12: train
+06-24-2022_17:43:12: truck
+06-24-2022_17:43:12: boat
+06-24-2022_17:43:12: traffic light
+06-24-2022_17:43:12: fire hydrant
+06-24-2022_17:43:12: stop sign
+06-24-2022_17:43:12: parking meter
+06-24-2022_17:43:12: bench
+06-24-2022_17:43:12: bird
+06-24-2022_17:43:12: cat
+06-24-2022_17:43:12: dog
+06-24-2022_17:43:12: horse
+06-24-2022_17:43:12: sheep
+06-24-2022_17:43:12: cow
+06-24-2022_17:43:12: elephant
+06-24-2022_17:43:12: bear
+06-24-2022_17:43:12: zebra
+06-24-2022_17:43:12: giraffe
+06-24-2022_17:43:12: backpack
+06-24-2022_17:43:12: umbrella
+06-24-2022_17:43:12: handbag
+06-24-2022_17:43:12: tie
+06-24-2022_17:43:12: suitcase
+06-24-2022_17:43:12: frisbee
+06-24-2022_17:43:12: skis
+06-24-2022_17:43:12: snowboard
+06-24-2022_17:43:12: sports ball
+06-24-2022_17:43:12: kite
+06-24-2022_17:43:12: baseball bat
+06-24-2022_17:43:12: baseball glove
+06-24-2022_17:43:12: skateboard
+06-24-2022_17:43:12: surfboard
+06-24-2022_17:43:12: tennis racket
+06-24-2022_17:43:12: bottle
+06-24-2022_17:43:12: wine glass
+06-24-2022_17:43:12: cup
+06-24-2022_17:43:12: fork
+06-24-2022_17:43:12: knife
+06-24-2022_17:43:12: spoon
+06-24-2022_17:43:12: bowl
+06-24-2022_17:43:12: banana
+06-24-2022_17:43:12: apple
+06-24-2022_17:43:12: sandwich
+06-24-2022_17:43:12: orange
+06-24-2022_17:43:12: broccoli
+06-24-2022_17:43:12: carrot
+06-24-2022_17:43:12: hot dog
+06-24-2022_17:43:12: pizza
+06-24-2022_17:43:12: donut
+06-24-2022_17:43:12: cake
+06-24-2022_17:43:12: chair
+06-24-2022_17:43:12: sofa
+06-24-2022_17:43:12: pottedplant
+06-24-2022_17:43:12: bed
+06-24-2022_17:43:12: diningtable
+06-24-2022_17:43:12: toilet
+06-24-2022_17:43:12: tvmonitor
+06-24-2022_17:43:12: laptop
+06-24-2022_17:43:12: mouse
+06-24-2022_17:43:12: remote
+06-24-2022_17:43:12: keyboard
+06-24-2022_17:43:12: cell phone
+06-24-2022_17:43:12: microwave
+06-24-2022_17:43:12: oven
+06-24-2022_17:43:12: toaster
+06-24-2022_17:43:12: sink
+06-24-2022_17:43:12: refrigerator
+06-24-2022_17:43:12: book
+06-24-2022_17:43:12: clock
+06-24-2022_17:43:12: vase
+06-24-2022_17:43:12: scissors
+06-24-2022_17:43:12: teddy bear
+06-24-2022_17:43:12: hair drier
+06-24-2022_17:43:12: toothbrush
+06-24-2022_17:43:12: No input GT data.  Proceeding.
+06-24-2022_17:43:12: Reading DNN - Config file path: ./sample/yolov3-tiny_COCO.cfg
+06-24-2022_17:43:12: Reading DNN - Model file path: ./sample/yolov3-tiny_COCO.weights
+06-24-2022_17:43:15: Changed label to bicycle
+06-24-2022_17:43:15: Changed label to car
+06-24-2022_17:43:18: Add new BBox
+06-24-2022_17:43:21: Add new BBox
+06-24-2022_17:43:24: Add new BBox
+06-24-2022_17:43:25: Changed label to motorbike
+06-24-2022_17:43:26: Changed label to aeroplane
+06-24-2022_17:43:26: Changed label to bus
+06-24-2022_17:43:27: Changed label to train
+06-24-2022_17:43:27: Changed label to truck
+06-24-2022_17:43:31: Add new BBox
+06-24-2022_17:43:33: Add new BBox
+06-24-2022_17:43:39: GT prediction method set: track
+06-24-2022_17:43:48: Finish move or change of BBox
+06-24-2022_17:43:50: Finish move or change of BBox
+06-24-2022_17:43:55: Finish move or change of BBox
+06-24-2022_17:43:58: Finish move or change of BBox
+06-24-2022_17:44:07: save_gt_data() called.  Saving GT to ./sample/test_traffic.csv
