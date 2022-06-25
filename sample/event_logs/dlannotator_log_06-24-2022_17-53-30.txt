@@ -1,0 +1,96 @@
+06-24-2022_17:53:30: DL Annotator Event Log
+06-24-2022_17:53:30: Version 1.0.3 Trial = False
+06-24-2022_17:53:30: Loading setup file information...
+06-24-2022_17:53:30: Reading JPG filenames from directory: ./sample/traffic_imgs/
+06-24-2022_17:53:30: Number of JPG files identified: 18
+06-24-2022_17:53:30: Reading labels from ./sample/coco_names.txt
+06-24-2022_17:53:30: Number of class labels identified: 80
+06-24-2022_17:53:30: Labels:
+06-24-2022_17:53:30: person
+06-24-2022_17:53:30: bicycle
+06-24-2022_17:53:30: car
+06-24-2022_17:53:30: motorbike
+06-24-2022_17:53:30: aeroplane
+06-24-2022_17:53:30: bus
+06-24-2022_17:53:30: train
+06-24-2022_17:53:30: truck
+06-24-2022_17:53:30: boat
+06-24-2022_17:53:30: traffic light
+06-24-2022_17:53:30: fire hydrant
+06-24-2022_17:53:30: stop sign
+06-24-2022_17:53:30: parking meter
+06-24-2022_17:53:30: bench
+06-24-2022_17:53:30: bird
+06-24-2022_17:53:30: cat
+06-24-2022_17:53:30: dog
+06-24-2022_17:53:30: horse
+06-24-2022_17:53:30: sheep
+06-24-2022_17:53:30: cow
+06-24-2022_17:53:30: elephant
+06-24-2022_17:53:30: bear
+06-24-2022_17:53:30: zebra
+06-24-2022_17:53:30: giraffe
+06-24-2022_17:53:30: backpack
+06-24-2022_17:53:30: umbrella
+06-24-2022_17:53:30: handbag
+06-24-2022_17:53:30: tie
+06-24-2022_17:53:30: suitcase
+06-24-2022_17:53:30: frisbee
+06-24-2022_17:53:30: skis
+06-24-2022_17:53:30: snowboard
+06-24-2022_17:53:30: sports ball
+06-24-2022_17:53:30: kite
+06-24-2022_17:53:30: baseball bat
+06-24-2022_17:53:30: baseball glove
+06-24-2022_17:53:30: skateboard
+06-24-2022_17:53:30: surfboard
+06-24-2022_17:53:30: tennis racket
+06-24-2022_17:53:30: bottle
+06-24-2022_17:53:30: wine glass
+06-24-2022_17:53:30: cup
+06-24-2022_17:53:30: fork
+06-24-2022_17:53:30: knife
+06-24-2022_17:53:30: spoon
+06-24-2022_17:53:30: bowl
+06-24-2022_17:53:30: banana
+06-24-2022_17:53:30: apple
+06-24-2022_17:53:30: sandwich
+06-24-2022_17:53:30: orange
+06-24-2022_17:53:30: broccoli
+06-24-2022_17:53:30: carrot
+06-24-2022_17:53:30: hot dog
+06-24-2022_17:53:30: pizza
+06-24-2022_17:53:30: donut
+06-24-2022_17:53:30: cake
+06-24-2022_17:53:30: chair
+06-24-2022_17:53:30: sofa
+06-24-2022_17:53:30: pottedplant
+06-24-2022_17:53:30: bed
+06-24-2022_17:53:30: diningtable
+06-24-2022_17:53:30: toilet
+06-24-2022_17:53:30: tvmonitor
+06-24-2022_17:53:30: laptop
+06-24-2022_17:53:30: mouse
+06-24-2022_17:53:30: remote
+06-24-2022_17:53:30: keyboard
+06-24-2022_17:53:30: cell phone
+06-24-2022_17:53:30: microwave
+06-24-2022_17:53:30: oven
+06-24-2022_17:53:30: toaster
+06-24-2022_17:53:30: sink
+06-24-2022_17:53:30: refrigerator
+06-24-2022_17:53:30: book
+06-24-2022_17:53:30: clock
+06-24-2022_17:53:30: vase
+06-24-2022_17:53:30: scissors
+06-24-2022_17:53:30: teddy bear
+06-24-2022_17:53:30: hair drier
+06-24-2022_17:53:30: toothbrush
+06-24-2022_17:53:30: No input GT data.  Proceeding.
+06-24-2022_17:53:30: Reading DNN - Config file path: none
+06-24-2022_17:53:30: Reading DNN - Model file path: none
+06-24-2022_17:53:30: none file not found!
+06-24-2022_17:53:34: Changed label to bicycle
+06-24-2022_17:53:34: Changed label to car
+06-24-2022_17:53:37: Add new BBox
+06-24-2022_17:53:41: GT prediction method set: track
