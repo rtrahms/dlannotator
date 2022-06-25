@@ -7,8 +7,8 @@ class GT:
     def __init__(self):
 
         # trial version flag
-        self.trial_version = True
-        #self.trial_version = False
+        #self.trial_version = True
+        self.trial_version = False
 
         self.trial_max_bboxes = 4
 
