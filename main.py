@@ -254,7 +254,8 @@ class Ui(QtWidgets.QMainWindow):
         if self.trial_version is True:
             self.prediction_methods = ["none"]
         else:
-            self.prediction_methods = ["copy", "track", "dnn"]
+            #self.prediction_methods = ["copy", "track", "dnn"]
+            self.prediction_methods = ["copy", "track"]
         self.predict_index = 0
         self.label_prediction_method = self.findChild(QtWidgets.QLabel,"label_prediction_method")
         self.label_prediction_method.setText(self.prediction_methods[self.predict_index])
